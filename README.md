@@ -1,5 +1,3 @@
-### SS
-
-## DeDeDe
+### DeDeDe
 
 
